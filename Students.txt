@@ -1,0 +1,29 @@
+Student Records
+
+ID    Name               Age   Gender
+001   Amina Hassan       20    Female
+002   Ahmed Ali          21    Male
+003   Fatima Yusuf       19    Female
+004   Mohamed Noor       22    Male
+005   Khadija Omar       20    Female
+006   Abdi Ibrahim       23    Male
+007   Maryan Ahmed       21    Female
+008   Hassan Mohamed     20    Male
+009   Safiya Ismail      19    Female
+010   Ali Abdullahi      22    Male
+011   Hani Osman         21    Female
+012   Bashir Farah       20    Male
+013   Fadumo Jama        22    Female
+014   Ismail Aden        23    Male
+015   Hodan Ali          20    Female
+016   Yusuf Hassan       21    Male
+017   Nasteho Mohamed    22    Female
+018   Abdulahi Ahmed     20    Male
+019   Ruqiya Abdi        19    Female
+020   Omar Hassan        21    Male
+
+Summary
+-------
+Male Students: 10
+Female Students: 10
+Total Students: 20
