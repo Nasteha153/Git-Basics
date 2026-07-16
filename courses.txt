@@ -1,0 +1,21 @@
+Course List
+Course ID   Course Name                     Duration
+----------------------------------------------------
+C001        Python Programming              3 Months
+C002        Web Development                 4 Months
+C003        Data Science                    5 Months
+C004        Machine Learning                4 Months
+C005        Database Systems                3 Months
+C006        Computer Networks               3 Months
+C007        Software Engineering            4 Months
+C008        Artificial Intelligence          5 Months
+C009        Cyber Security                  4 Months
+C010        Mobile Application Development  4 Months
+
+Course Summary
+--------------
+Programming Courses: 4
+Data & AI Courses: 3
+Computer Science Courses: 3
+
+Total Available Courses: 10
