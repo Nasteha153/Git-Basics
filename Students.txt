@@ -63,15 +63,8 @@ ID    Name             Age   Gender
  60   Samira Hassan        20   Female
  61   Ali Nur              21   Male
  62   Hibo Ismail          20   Female
+ 63   Abdifatah Mohamed    22   Male
 
-
-
-
-
-
-
-
- 
 Summary
 -------
 Male Students: 10
