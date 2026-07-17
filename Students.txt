@@ -29,7 +29,7 @@ ID    Name             Age   Gender
 26   Fardowsa Ali         21   Female
 27   Hassan Abdi          23   Male
 28   Nimo Ahmed           20   Female
-
+29   Ismail Hassan        22   Male
 
 
 Summary
