@@ -9,7 +9,7 @@ class Calculator {
     this.clear();
   }
 
-  // Resets the state of the inputs
+  // Reset calculator to its default state
   clear() {
     this.currentOperand = '0';
     this.previousOperand = '';
