@@ -61,6 +61,7 @@ ID    Name             Age   Gender
  58   Roda Ali             19   Female
  59   Mohamed Jama         23   Male
  60   Samira Hassan        20   Female
+ 61   Ali Nur              21   Male
 
 
 
