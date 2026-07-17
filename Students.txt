@@ -71,6 +71,7 @@ ID    Name             Age   Gender
  68   Nasra Ahmed          19   Female
  69   Mohamed Aden         20   Male
  70   Hodan Nur            21   Female
+ 71   Bashir Mohamed       22   Male
 Summary
 -------
 Male Students: 10
