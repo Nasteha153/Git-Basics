@@ -47,6 +47,7 @@ ID    Name             Age   Gender
  44   Rahma Hassan         19   Female
  45   Ahmed Nur            22   Male
  46   Shukri Mohamed       20   Female
+ 47   Yusuf Ali            21   Male
 Summary
 -------
 Male Students: 10
