@@ -27,7 +27,7 @@ class Calculator {
     }
   }
 
-  // Appends typed digits and validates decimal positioning
+  // Add digits while preventing multiple decimal points
   appendNumber(number) {
     if (this.shouldResetScreen) {
       this.currentOperand = '';
