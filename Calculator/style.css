@@ -16,6 +16,23 @@
   --btn-eq-hover: #059669;
   --shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4), 0 8px 10px -6px rgba(0, 0, 0, 0.4);
 }
+.light-theme {
+  /* Light Theme Palette */
+  --bg-color: #f1f5f9;
+  --card-bg: #ffffff;
+  --text-primary: #1e293b;
+  --text-secondary: #64748b;
+  --display-bg: #f8fafc;
+  --btn-num-bg: #e2e8f0;
+  --btn-num-hover: #cbd5e1;
+  --btn-util-bg: #94a3b8;
+  --btn-util-hover: #cbd5e1;
+  --btn-op-bg: #ff7a1a;
+  --btn-op-hover: #e06000;
+  --btn-eq-bg: #10b981;
+  --btn-eq-hover: #059669;
+  --shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+}
 /* Global Styles */
 * {
   margin: 0;
