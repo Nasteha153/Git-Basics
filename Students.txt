@@ -48,6 +48,7 @@ ID    Name             Age   Gender
  45   Ahmed Nur            22   Male
  46   Shukri Mohamed       20   Female
  47   Yusuf Ali            21   Male
+ 48   Ikraan Hassan        22   Female
 Summary
 -------
 Male Students: 10
