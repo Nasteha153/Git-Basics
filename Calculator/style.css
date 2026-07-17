@@ -57,7 +57,7 @@ body {
 .calculator-container {
   position: relative;
   width: 100%;
-  max-width: 360px;
+  max-width: 370px;
   background-color: var(--card-bg);
   border-radius: 24px;
   padding: 24px;
