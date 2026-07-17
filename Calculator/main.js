@@ -52,7 +52,7 @@ class Calculator {
     this.currentOperand = '';
   }
 
-  // Performs calculations and records to history log
+  // Execute calculation and save it to history
   compute() {
     let computation;
     const prev = parseFloat(this.previousOperand);
