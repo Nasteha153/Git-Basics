@@ -27,7 +27,7 @@ class Calculator {
     }
   }
 
-  // Add digits while preventing multiple decimal points
+  // Store the selected operator for calculation
   appendNumber(number) {
     if (this.shouldResetScreen) {
       this.currentOperand = '';
