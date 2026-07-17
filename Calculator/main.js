@@ -137,7 +137,7 @@ const currentOperandTextElement = document.getElementById('current-operand');
 const calculator = new Calculator(previousOperandTextElement, currentOperandTextElement);
 
 /* ==========================================
-   Click Event Listeners
+   Mouse Click Events
    ========================================== */
 numberButtons.forEach(button => {
   button.addEventListener('click', () => {
