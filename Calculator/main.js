@@ -1,5 +1,6 @@
 /**
- * Core Calculator State Controller
+ * Calculator Class
+ * Manages calculator operations and display state.
  */
 class Calculator {
   constructor(previousOperandTextElement, currentOperandTextElement) {
