@@ -64,6 +64,7 @@ ID    Name             Age   Gender
  61   Ali Nur              21   Male
  62   Hibo Ismail          20   Female
  63   Abdifatah Mohamed    22   Male
+ 64   Amina Ali            21   Female
 
 Summary
 -------
