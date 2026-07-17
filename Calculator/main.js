@@ -93,7 +93,7 @@ class Calculator {
     this.shouldResetScreen = true;
   }
 
-  // Helper function to format displays dynamically (e.g., handles long floats)
+  // Format numbers before displaying them
   formatDisplayNumber(number) {
     const stringNumber = number.toString();
     const integerDigits = parseFloat(stringNumber.split('.')[0]);
