@@ -45,14 +45,7 @@ ID    Name             Age   Gender
  42   Maryan Ali          21   Female
  43   Hassan Jama         20   Male
  44   Rahma Hassan         19   Female
-
-
-
-
-
-
-
-
+ 45   Ahmed Nur            22   Male
 Summary
 -------
 Male Students: 10
