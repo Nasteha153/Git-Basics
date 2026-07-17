@@ -40,8 +40,9 @@ ID    Name             Age   Gender
 37   Bashir Ali           22   Male
 38   Hani Hassan          19   Female
 39   Abdirahman Yusuf     23   Male
-40   Ayan Yusuf         20   Female
- Jama Abdi            22   Male
+40   Ayan Yusuf           20   Female
+ 41 Jama Abdi             22   Male
+ 42   Maryan Ali          21   Female
 
 
 
