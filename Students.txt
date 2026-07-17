@@ -77,6 +77,6 @@ ID    Name             Age   Gender
  74   Fardowsa Hassan      19   Female
 Summary
 -------
-Male Students: 10
-Female Students: 10
-Total Students: 20
+Male Students: 37
+Female Students: 37
+Total Students: 74
