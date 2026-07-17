@@ -17,7 +17,7 @@ class Calculator {
     this.shouldResetScreen = false;
   }
 
-  // Deletes a single character
+ // Remove the last entered character
   delete() {
     if (this.currentOperand === '0') return;
     if (this.currentOperand.length === 1) {
