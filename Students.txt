@@ -72,6 +72,7 @@ ID    Name             Age   Gender
  69   Mohamed Aden         20   Male
  70   Hodan Nur            21   Female
  71   Bashir Mohamed       22   Male
+ 72   Asha Ismail          20   Female
 Summary
 -------
 Male Students: 10
