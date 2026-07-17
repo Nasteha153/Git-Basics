@@ -26,6 +26,8 @@ ID    Name             Age   Gender
 23   Ahmed Yusuf        21   Male
 24   Hibo Omar          20   Female
 25   Ibrahim Mohamed    22   Male
+26   Fardowsa Ali         21   Female
+
 
 Summary
 -------
