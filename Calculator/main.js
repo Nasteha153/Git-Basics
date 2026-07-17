@@ -113,7 +113,7 @@ class Calculator {
     }
   }
 
-  // Updates visual layout values
+  // Refresh calculator display
   updateDisplay() {
     this.currentOperandTextElement.innerText = this.currentOperand;
     if (this.operation != null) {
