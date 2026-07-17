@@ -31,3 +31,33 @@ body {
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
   overflow: hidden; 
 }
+/* Header & Utility Buttons */
+.calc-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.icon-btn {
+  background: transparent;
+  border: none;
+  font-size: 1.25rem;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 50%;
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+.icon-btn:hover {
+  background-color: var(--btn-num-hover);
+}
+
+.icon-btn:active {
+  transform: scale(0.92);
+}
+
+/* Toggle Sun/Moon icons depending on active class */
+.dark-theme .sun-icon { display: inline; }
+.dark-theme .moon-icon { display: none; }
+.light-theme .sun-icon { display: none; }
+.light-theme .moon-icon { display: inline; }
