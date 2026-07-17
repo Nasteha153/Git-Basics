@@ -75,6 +75,7 @@ ID    Name             Age   Gender
  72   Asha Ismail          20   Female
  73   Ahmed Jama           21   Male
  74   Fardowsa Hassan      19   Female
+ 75 Rahma Nur              20   Female
 Summary
 -------
 Male Students: 37
