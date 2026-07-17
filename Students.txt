@@ -24,7 +24,7 @@ ID    Name             Age   Gender
 21   Mohamed Ali       24    Male
 22 Asha Hassan         19   Female
 23   Ahmed Yusuf        21   Male
-
+24   Hibo Omar          20   Female
 Summary
 -------
 Male Students: 10
