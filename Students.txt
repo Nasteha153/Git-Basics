@@ -32,6 +32,8 @@ ID    Name             Age   Gender
 29   Ismail Hassan        22   Male
 30   Zamzam Mohamed       19   Female
 31   Abdullahi Noor       21   Male
+32   Ifrah Ali            20   Female
+
 
 
 
