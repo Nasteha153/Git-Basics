@@ -67,6 +67,7 @@ ID    Name             Age   Gender
  64   Amina Ali            21   Female
  65   Hassan Yusuf         20   Male
  66   Deeqa Omar           22   Female
+ 67   Abdirizak Hassan     23   Male
 
 Summary
 -------
