@@ -108,3 +108,39 @@ body {
   cursor: pointer;
   transition: transform 0.08s ease, background-color 0.2s ease, color 0.3s ease;
 }
+
+/* Hover and Active States */
+.btn:hover {
+  filter: brightness(1.1);
+}
+
+.btn:active, .btn.keyboard-pressed {
+  transform: scale(0.92);
+}
+
+/* Keypad Color Themes */
+.btn.number {
+  background-color: var(--btn-num-bg);
+  color: var(--text-primary);
+}
+
+.btn.utility {
+  background-color: var(--btn-util-bg);
+  color: #ffffff;
+}
+
+.btn.operator {
+  background-color: var(--btn-op-bg);
+  color: #ffffff;
+}
+
+.btn.equals {
+  background-color: var(--btn-eq-bg);
+  color: #ffffff;
+  grid-row: span 2;
+  height: auto; /* Adapts to a double-height layout space */
+}
+
+.zero-btn {
+  grid-column: span 2;
+}
