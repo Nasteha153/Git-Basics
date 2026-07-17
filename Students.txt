@@ -34,6 +34,7 @@ ID    Name             Age   Gender
 31   Abdullahi Noor       21   Male
 32   Ifrah Ali            20   Female
 33   Osman Hassan         23   Male
+34   Luul Ahmed           22   Female
 
 
 
