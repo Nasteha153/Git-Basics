@@ -21,6 +21,7 @@ ID    Name             Age   Gender
 18   Abdulahi Ahmed    20    Male
 19   Ruqiya Abdi       19    Female
 20   Omar Hassan       21    Male
+21   Mohamed Ali       24    Male
 
 Summary
 -------
