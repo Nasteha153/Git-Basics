@@ -30,6 +30,8 @@ ID    Name             Age   Gender
 27   Hassan Abdi          23   Male
 28   Nimo Ahmed           20   Female
 29   Ismail Hassan        22   Male
+30   Zamzam Mohamed       19   Female
+
 
 
 Summary
