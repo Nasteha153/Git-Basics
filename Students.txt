@@ -65,6 +65,7 @@ ID    Name             Age   Gender
  62   Hibo Ismail          20   Female
  63   Abdifatah Mohamed    22   Male
  64   Amina Ali            21   Female
+ 65   Hassan Yusuf         20   Male
 
 Summary
 -------
