@@ -124,7 +124,7 @@ class Calculator {
   }
 }
 
-// DOM Element Selectors
+// DOM Elements
 
 const numberButtons = document.querySelectorAll('.btn.number');
 const operatorButtons = document.querySelectorAll('.btn.operator');
