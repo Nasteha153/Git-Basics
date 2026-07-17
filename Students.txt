@@ -69,6 +69,7 @@ ID    Name             Age   Gender
  66   Deeqa Omar           22   Female
  67   Abdirizak Hassan     23   Male
  68   Nasra Ahmed          19   Female
+ 69   Mohamed Aden         20   Male
 
 Summary
 -------
