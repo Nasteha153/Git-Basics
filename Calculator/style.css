@@ -1,4 +1,21 @@
 /* Calculator Styles  */
+:root {
+  /* Dark Theme Palette (Default) */
+  --bg-color: #0f172a;
+  --card-bg: #1e293b;
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --display-bg: #0f172a;
+  --btn-num-bg: #334155;
+  --btn-num-hover: #475569;
+  --btn-util-bg: #475569;
+  --btn-util-hover: #64748b;
+  --btn-op-bg: #f97316;
+  --btn-op-hover: #ea580c;
+  --btn-eq-bg: #10b981;
+  --btn-eq-hover: #059669;
+  --shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4), 0 8px 10px -6px rgba(0, 0, 0, 0.4);
+}
 /* Global Styles */
 * {
   margin: 0;
