@@ -17,10 +17,13 @@ C13       Frontend Development             3 Months
 C14       Backend Development              4 Months
 C15      Deep Learning                    6 Months
 C16      IT Project Management            4 Months
+
 Course Summary
 --------------
-Programming Courses: 4
-Data & AI Courses: 3
-Computer Science Courses: 3
 
-Total Available Courses: 10
+Programming Courses: 6
+Data & AI Courses: 5
+Computer Science Courses: 3
+Cloud & Management Courses: 2
+
+Total Available Courses: 16
