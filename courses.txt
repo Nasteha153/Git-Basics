@@ -17,11 +17,6 @@ C13       Frontend Development             3 Months
 C14       Backend Development              4 Months
 C15      Deep Learning                    6 Months
 C16      IT Project Management            4 Months
-
-
-
-
-
 Course Summary
 --------------
 Programming Courses: 4
