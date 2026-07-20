@@ -11,6 +11,7 @@ C7        Software Engineering            4 Months
 C8        Artificial Intelligence         6 Months
 C9        Cyber Security                  4 Months
 C10        Mobile Application Development  4 Months
+C29       Information Systems              3 Months
 
 Course Summary
 --------------
