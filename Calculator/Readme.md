@@ -41,24 +41,6 @@ calculator-project/
 ├── README.md       # Project documentation
 ```
 
----
-
-## How to Run
-
-1. Download or clone this repository.
-
-```bash
-git clone https://github.com/your-username/calculator-project.git
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your web browser.
-
-No installation or additional software is required.
-
----
-
 ## Keyboard Shortcuts
 
 | Key | Action |
@@ -97,17 +79,3 @@ This project was created to practice:
 - Keyboard events
 - Theme switching
 - Git and GitHub workflow
-
----
-
-## Author
-
-**Nasteha Mohamed**
-
-Computer Science Student
-
----
-
-## License
-
-This project is created for educational and learning purposes.
