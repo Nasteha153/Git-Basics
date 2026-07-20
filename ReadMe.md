@@ -11,4 +11,5 @@ Objectives
 - Learn how to track file changes.
 - Use different file types in a single project.
 - Git Commands Practiced
+- this is for practical
 
