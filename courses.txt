@@ -12,6 +12,8 @@ C8        Artificial Intelligence         6 Months
 C9        Cyber Security                  4 Months
 C10        Mobile Application Development  4 Months
 C11       Cloud Computing                  5 Months
+C12       DevOps Engineering               4 Months
+
 
 Course Summary
 --------------
