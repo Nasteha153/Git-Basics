@@ -1,0 +1,17 @@
+name: My Workflow
+
+on: push
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Greet and count files
+        env:
+          STUDENT_NAME: ${{ vars.STUDENT_NAME }}
+        run: |
+          COUNT=$(find . -type f -not -path './.git/*' | wc -l)
+          echo "Hello $STUDENT_NAME, your files count are $COUNT"
